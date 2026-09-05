@@ -129,3 +129,12 @@ A clean overview of my background, experience, skills, and projects.
 An interactive SOC-themed portfolio showcasing my cybersecurity interests, practical work, and security-focused projects.
 
 **https://decimator03.github.io/portfolio/**
+
+---
+
+## 📚 Currently Learning
+
+- CrowdStrike Falcon
+- Advanced Security Monitoring & Alert Investigation
+- Threat Detection & Analysis
+- SOC & Blue Team Operations
