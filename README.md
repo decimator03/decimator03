@@ -89,3 +89,29 @@ Currently building practical experience through hands-on SOC work, cybersecurity
 - Analysed network traffic and security logs to identify suspicious activity and threat indicators.
 - Assisted with incident triage, categorization, and escalation.
 - Participated in threat hunting and vulnerability assessment activities.
+
+---
+
+## 📂 Featured Projects
+
+### 🛡️ Wazuh-SOAR Integration & SOC Dashboard
+
+Integrated **Wazuh SIEM** with **Shuffle SOAR** to automate alert enrichment and response workflows, while developing dashboards for real-time alert visualization and event correlation.
+
+**Focus:** SIEM | SOAR | Alert Enrichment | Automation | Security Monitoring
+
+---
+
+### 🔐 Secure IoT Device Onboarding Platform
+
+Designed a secure device onboarding and authentication mechanism to help protect IoT environments against unauthorized device communication.
+
+**Focus:** IoT Security | Authentication | Secure Device Onboarding
+
+---
+
+### 🌐 Secure Enterprise Network Design
+
+Designed and simulated a secure enterprise network incorporating routing, VLAN segmentation, IP planning, and security controls.
+
+**Focus:** Network Security | VLANs | Routing | Network Architecture
