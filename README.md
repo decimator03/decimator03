@@ -123,7 +123,7 @@ Designed and simulated a secure enterprise network incorporating routing, VLAN s
 ### 💼 Professional Portfolio
 A clean overview of my background, experience, skills, and projects.
 
-**aaryanrane.netlify.app**
+**https//aaryanrane.netlify.app**
 
 ### 🛡️ SOC Portfolio
 An interactive SOC-themed portfolio showcasing my cybersecurity interests, practical work, and security-focused projects.
