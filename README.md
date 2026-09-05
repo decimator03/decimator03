@@ -115,3 +115,17 @@ Designed a secure device onboarding and authentication mechanism to help protect
 Designed and simulated a secure enterprise network incorporating routing, VLAN segmentation, IP planning, and security controls.
 
 **Focus:** Network Security | VLANs | Routing | Network Architecture
+
+---
+
+## 🌐 My Portfolios
+
+### 💼 Professional Portfolio
+A clean overview of my background, experience, skills, and projects.
+
+**[Visit my Portfolio →](YOUR_NETLIFY_LINK)**
+
+### 🛡️ SOC Portfolio
+An interactive SOC-themed portfolio showcasing my cybersecurity interests, practical work, and security-focused projects.
+
+**[Explore my SOC Portfolio →](YOUR_GITHUB_PAGES_LINK)**
