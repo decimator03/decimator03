@@ -32,3 +32,31 @@ Currently building practical experience through hands-on SOC work, cybersecurity
 - Incident Response
 - Blue Teaming
 - Security Monitoring
+
+---
+
+## 🧰 Tools & Technologies
+
+**Security Operations**
+- Elastic Security
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- SIEM & Security Monitoring
+- Windows Event Logs
+- Alert Triage & Investigation
+
+**Security Concepts**
+- MITRE ATT&CK
+- Incident Response
+- Threat Detection
+- Log Analysis
+- Network Security
+
+**Systems & Technical**
+- Windows & Active Directory
+- Linux
+- Networking Fundamentals
+- Git & GitHub
+- Python
+
+**Currently Learning**
+- CrowdStrike Falcon
