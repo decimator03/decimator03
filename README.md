@@ -138,3 +138,10 @@ An interactive SOC-themed portfolio showcasing my cybersecurity interests, pract
 - Advanced Security Monitoring & Alert Investigation
 - Threat Detection & Analysis
 - SOC & Blue Team Operations
+
+---
+
+## 📫 Connect With Me
+
+- 💼 https://linkedin.com/in/aaryan-rane
+- 📧 mailto:aaryanrane2207@gmail.com
