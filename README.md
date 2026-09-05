@@ -60,3 +60,32 @@ Currently building practical experience through hands-on SOC work, cybersecurity
 
 **Currently Learning**
 - CrowdStrike Falcon
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 Security Operations Analyst — CyberNX Technologies
+**July 2026 – Present**
+
+- Monitor security events and alerts across client environments within an MSSP/SOC environment.
+- Perform alert triage and initial analysis to identify suspicious activity and potential security incidents.
+- Analyse security data and event details to determine the nature, severity, and validity of detected events.
+- Create and document security cases based on investigation findings and established escalation procedures.
+- Communicate security alerts and incident-related findings to clients.
+- Support continuous security monitoring and timely escalation across multiple client environments.
+
+### 🔹 Lab Scenario Developer — CyberDojo
+**January 2025 – Present**
+
+- Design SOC and SIEM-focused hands-on lab scenarios covering threat detection, log analysis, alert triage, and incident response.
+- Develop structured SOC playbooks, lab manuals, and technical documentation for cybersecurity training.
+- Create controlled web application security scenarios based on OWASP Top 10 concepts.
+
+### 🔹 SOC Analyst Trainee — Bridge Systems and Services
+**July 2024 – August 2024**
+
+- Monitored security events and alerts using SIEM platforms.
+- Analysed network traffic and security logs to identify suspicious activity and threat indicators.
+- Assisted with incident triage, categorization, and escalation.
+- Participated in threat hunting and vulnerability assessment activities.
